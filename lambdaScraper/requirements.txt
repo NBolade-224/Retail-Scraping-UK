@@ -1,0 +1,5 @@
+pandas
+requests_html
+boto3
+psycopg[binary]
+psycopg2-binary
